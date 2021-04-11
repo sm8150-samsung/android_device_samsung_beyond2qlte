@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond0qlte.mk
+    $(LOCAL_DIR)/lineage_beyond2qlte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond0qlte-eng \
-    lineage_beyond0qlte-userdebug \
-    lineage_beyond0qlte-user
+    lineage_beyond2qlte-eng \
+    lineage_beyond2qlte-userdebug \
+    lineage_beyond2qlte-user
